@@ -1,0 +1,72 @@
+[
+    {
+        "product_id": 1,
+        "product_name": "Apple MacBook Pro",
+        "category": "Laptop",
+        "cost": 2499.99,
+        "on_hand": 15
+    },
+    {
+        "product_id": 2,
+        "product_name": "Apple iMac",
+        "category": "Desktop",
+        "cost": 1799.99,
+        "on_hand": 8
+    },
+    {
+        "product_id": 3,
+        "product_name": "Apple MacBook Air",
+        "category": "Laptop",
+        "cost": 999.99,
+        "on_hand": 20
+    },
+    {
+        "product_id": 4,
+        "product_name": "Apple iPad Pro",
+        "category": "Tablet",
+        "cost": 1099.99,
+        "on_hand": 30
+    },
+    {
+        "product_id": 5,
+        "product_name": "Apple Magic Mouse",
+        "category": "Accessory",
+        "cost": 79.99,
+        "on_hand": 100
+    },
+    {
+        "product_id": 6,
+        "product_name": "Apple Mac Mini",
+        "category": "Desktop",
+        "cost": 699.99,
+        "on_hand": 25
+    },
+    {
+        "product_id": 7,
+        "product_name": "Apple iPad Air",
+        "category": "Tablet",
+        "cost": 599.99,
+        "on_hand": 40
+    },
+    {
+        "product_id": 8,
+        "product_name": "Apple Magic Keyboard",
+        "category": "Accessory",
+        "cost": 99.99,
+        "on_hand": 60
+    },
+    {
+        "product_id": 9,
+        "product_name": "Apple Mac Pro",
+        "category": "Desktop",
+        "cost": 5999.99,
+        "on_hand": 5
+    },
+    {
+        "product_id": 10,
+        "product_name": "Apple MacBook",
+        "category": "Laptop",
+        "cost": 1299.99,
+        "on_hand": 10
+    }
+]
